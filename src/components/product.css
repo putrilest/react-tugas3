@@ -1,0 +1,22 @@
+.bungkus{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.produk{
+    height: 250px;
+    width: 200px;
+    background-color: #424240;
+    color: white;
+    border-radius: 15px;
+    padding: '50px';
+    color: "black"
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
